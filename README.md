@@ -24,13 +24,4 @@ Kod yazmak değil; mevcut C# kodunu okuyabilmek, içinden iş kurallarını çı
 | **05-Karsilastirmalar-ve-Iyi-Pratikler** | Yaygın yaklaşımların karşılaştırılması ve iyi pratikler |
 | **06-Terimler-Sozlugu** | Sık kullanılan terimlerin açıklamaları |
 
-## Hedef Kitle
 
-Kod okuma ve teknik dokümantasyon becerisini geliştirmek isteyen Junior İş Analistleri.
-
-## Nasıl Kullanılır?
-
-1. `01-Temel-Kavramlar` klasöründen başlayarak temel yapıları öğrenin.
-2. `02-Kod-Analiz-Ornekleri` içindeki örnekleri inceleyerek pratik yapın.
-3. `04-Dokumantasyon-Sablonlari` dosyalarını kullanarak kendi analizlerinizi standart formata çevirin.
-4. Çıkardığınız iş kurallarını `03-Is-Kurallari` klasöründe toplayın.
